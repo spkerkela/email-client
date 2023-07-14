@@ -1,4 +1,4 @@
-:require 'net/smtp'
+require 'net/smtp'
 require 'net/imap'
 require 'io/console'
 
