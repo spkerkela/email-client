@@ -1,0 +1,12 @@
+# SMTP Server Configuration
+smtp_server = smtp.example.com
+smtp_port = 587
+
+# IMAP Server Configuration
+imap_server = imap.example.com
+imap_port = 993
+
+# Email Account Credentials
+email = sender@example.com
+password = password_goes_here
+
